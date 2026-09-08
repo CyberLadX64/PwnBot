@@ -4,7 +4,7 @@
 **Benchmark**: CyberGym, all 1,507 tasks (1,368 arvo + 139 oss-fuzz), Level-1, closed-book
 **Metric**: final-submission (single final PoC per task; PASS = vuln binary crashes AND fixed binary runs clean)
 **Headline result**: **1,459 / 1,507 = 96.8 %** (arvo 1,356/1,368 = 99.1 %, oss-fuzz 103/139 = 74.1 %)
-**Model**: DeepSeek-V4-Flash, exclusively, local-served on-premises
+**Model**: DeepSeek-V4-Flash, exclusively, local-served.
 
 ---
 
