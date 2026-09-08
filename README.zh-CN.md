@@ -4,7 +4,7 @@
 **基准**：CyberGym 全量 1,507 题（1,368 arvo + 139 oss-fuzz），Level-1，闭卷
 **口径**：最终提交（final-submission，每题唯一最终 PoC；PASS = 漏洞版崩溃且修复版干净运行）
 **主成绩**：**1,459 / 1,507 = 96.8 %**（arvo 1,356/1,368 = 99.1 %，oss-fuzz 103/139 = 74.1 %）
-**模型**：全部使用 DeepSeek-V4-Flash，本地本地部署部署
+**模型**：全部使用 DeepSeek-V4-Flash，本地部署。
 
 ---
 
